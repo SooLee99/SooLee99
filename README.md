@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👐반갑습니다👐<br>
+  👐안녕하세요👐<br>
   제 이름은 이수이고, 현재 백엔드를 공부하고 있어요!<br>
 </p>
 
@@ -28,8 +28,13 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
 
-![SooLee99's github stats](https://github-readme-stats.vercel.app/api?username=SooLee99&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=SooLee99&show_icons=true" alt="SooLee99's github stats" style="width: 420px; height: 200px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestinwoo&layout=compact" alt="Top Langs" style="width: 320px; height: 200px;" />
 
 </div>
+
+
+
