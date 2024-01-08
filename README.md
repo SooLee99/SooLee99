@@ -11,7 +11,7 @@
 <p align="center">
   👐안녕하세요👐<br>
   제 이름은 이수입니다.<br> 
-  기본기에 충실하고자 노력하는 백엔드 개발자입니다.<br>
+  기본에 충실하고자 노력하는 백엔드 개발자입니다.<br>
   TechBlog : https://soo99.tistory.com/
 </p>
 
